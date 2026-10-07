@@ -1,0 +1,4 @@
+[submodule "mytest"]
+	path = mytest
+	url = https://github.com/acieszkiel/mytest.git
+	branch = branch10
